@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, I'm Dimas 
 
-<!--
-**dimassudjito/dimassudjito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineering student at the University of Alberta and a current software developer intern at [NOV](https://www.nov.com/).
 
-Here are some ideas to get you started:
+I love arguing about real-world problems and (sometimes) building something to solve them. I'm currently interested in web development and machine learning. Check out my projects below.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+<details>
+  <summary></summary>
+  <details>
+    <summary>Project #1</summary>
+    Test
+  </details>
+</details>
+
+### Activities
+
