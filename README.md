@@ -8,7 +8,7 @@ I love arguing about real-world problems and (sometimes) building something to s
   
   <summary>
 
-  # Projects
+  # Recent Software Projects
     
   </summary>
 
@@ -69,76 +69,6 @@ I love arguing about real-world problems and (sometimes) building something to s
   * Built with: Scikit-learn, Flask, MongoDB, Mongoose, Apollo, Vue.js, Vuetify
 
   [Learn More](https://github.com/dimassudjito/quora-clone)
-  
-  </details>
-
-  <details>
-    <summary>Logistic (February 2022)</summary>
-
-  * Web application to keep track of warehouse inventory
-  * Built with: Typescript, Apollo, React
-
-  [Learn More](https://github.com/dimassudjito/logistic)
-    
-  </details>
-
-  <details>
-    <summary>Spacestagram (January 2022)</summary>
-
-  * A tumblr-style UI for nasa astronomy photo of the day API
-  * Built with: React, MUI
-
-  [Learn More](https://github.com/dimassudjito/spacestagram)
-  
-  </details>
-
-  <details>
-    <summary>Campfire (December 2020)</summary>
-
-  * A public space where users can read and write scary stories anonymously
-  * Built with: PostgreSQL, node.js, express.js, react, bootstrap, heroku
-
-  [Learn More](https://github.com/dimassudjito/campfire)
-  
-  </details>
-
-  <details>
-    <summary>Bang (January 2021)</summary>
-
-  * A Kinect-like duel game where the players make the gun motion to pull the trigger. The player who shoots faster wins.
-  * Built with: JavaScript, ml5, p5, teachable machine
-
-  [Learn More](https://github.com/dimassudjito/bang)
-  
-  </details>
-
-  <details>
-    <summary>d3ja-vue (July 2021)</summary>
-
-  * A vue component library for data visualization with d3.js
-  * Built with: Vue.js, D3.js
-
-  [Learn More](https://github.com/dimassudjito/d3ja-vue)
-  
-  </details>
-
-  <details>
-    <summary>Rankify (August 2021)</summary>
-
-  * A suite of decision-making tools built with react and bootstrap. Currently hosts two tools: sports brackets and QuickSelect.
-  * Built with: react, bootstrap
-
-  [Learn More](https://github.com/dimassudjito/rankify)
-  
-  </details>
-
-  <details>
-    <summary>Congklak (November 2020)</summary>
-
-  * It simulates a game of congklak for two players. It contains all the rules and it will move the seed automatically, so the players can focus on the game.
-  * Built with: python, pygame
-
-  [Learn More](https://github.com/dimassudjito/congklak)
   
   </details>
   
@@ -211,6 +141,85 @@ improved usability of the database for end-users.
   [Learn More](https://www.bio-conversion.org/)
   
   </details>
+</details>
+
+<details>
+  <summary>
+  
+  # Past Software Projects
+    
+  </summary>
+
+  <details>
+    <summary>Logistic (February 2022)</summary>
+
+  * Web application to keep track of warehouse inventory
+  * Built with: Typescript, Apollo, React
+
+  [Learn More](https://github.com/dimassudjito/logistic)
+    
+  </details>
+
+  <details>
+    <summary>Spacestagram (January 2022)</summary>
+
+  * A tumblr-style UI for nasa astronomy photo of the day API
+  * Built with: React, MUI
+
+  [Learn More](https://github.com/dimassudjito/spacestagram)
+  
+  </details>
+
+  <details>
+    <summary>Campfire (December 2020)</summary>
+
+  * A public space where users can read and write scary stories anonymously
+  * Built with: PostgreSQL, node.js, express.js, react, bootstrap, heroku
+
+  [Learn More](https://github.com/dimassudjito/campfire)
+  
+  </details>
+
+  <details>
+    <summary>Bang (January 2021)</summary>
+
+  * A Kinect-like duel game where the players make the gun motion to pull the trigger. The player who shoots faster wins.
+  * Built with: JavaScript, ml5, p5, teachable machine
+
+  [Learn More](https://github.com/dimassudjito/bang)
+  
+  </details>
+
+  <details>
+    <summary>d3ja-vue (July 2021)</summary>
+
+  * A vue component library for data visualization with d3.js
+  * Built with: Vue.js, D3.js
+
+  [Learn More](https://github.com/dimassudjito/d3ja-vue)
+  
+  </details>
+
+  <details>
+    <summary>Rankify (August 2021)</summary>
+
+  * A suite of decision-making tools built with react and bootstrap. Currently hosts two tools: sports brackets and QuickSelect.
+  * Built with: react, bootstrap
+
+  [Learn More](https://github.com/dimassudjito/rankify)
+  
+  </details>
+
+  <details>
+    <summary>Congklak (November 2020)</summary>
+
+  * It simulates a game of congklak for two players. It contains all the rules and it will move the seed automatically, so the players can focus on the game.
+  * Built with: python, pygame
+
+  [Learn More](https://github.com/dimassudjito/congklak)
+  
+  </details>
+  
 </details>
 
 <details>
