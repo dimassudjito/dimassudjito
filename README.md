@@ -13,7 +13,7 @@ I love arguing about real-world problems and (sometimes) building something to s
   </summary>
 
   <details>
-    <summary>Gacha4Good</summary>
+    <summary>Gacha4Good (January 2022) </summary>
     
   * Boxing-themed [gacha](https://en.wikipedia.org/wiki/Gacha_game) game
   * Build with: React, MUI, Apollo, PayPal API, MongoDB, TypeScript
@@ -23,7 +23,7 @@ I love arguing about real-world problems and (sometimes) building something to s
   </details>
 
   <details>
-    <summary>Fill-in-the-blank Medical Report</summary>
+    <summary>Fill-in-the-blank Medical Report (September 2021 - December 2021)</summary>
 
   * Automatic filling of medical report from chest X-ray scans using CNN-LSTM architecture. Worked under Dr. Li Cheng and Hoang Nguyen.
   * Build with: PyTorch, Pandas
@@ -33,7 +33,7 @@ I love arguing about real-world problems and (sometimes) building something to s
   </details>
 
   <details>
-    <summary>Quora Clone</summary>
+    <summary>Quora Clone (May 2021 - June 2021)</summary>
 
   * A full clone of quora.com, a questions and answers application, based on GraphQL. Equipped with a classifier API to detect insincere questions.
   * Build with: Scikit-learn, Flask, MongoDB, Mongoose, Apollo, Vue.js, Vuetify
@@ -43,7 +43,7 @@ I love arguing about real-world problems and (sometimes) building something to s
   </details>
 
   <details>
-    <summary>Logistic</summary>
+    <summary>Logistic (February 2022)</summary>
 
   * Web application to keep track of warehouse inventory
   * Build with: Typescript, Apollo, React
@@ -53,7 +53,7 @@ I love arguing about real-world problems and (sometimes) building something to s
   </details>
 
   <details>
-    <summary>Spacestagram</summary>
+    <summary>Spacestagram (January 2022)</summary>
 
   * A tumblr-style UI for nasa astronomy photo of the day API
   * Build with: React, MUI
@@ -63,7 +63,7 @@ I love arguing about real-world problems and (sometimes) building something to s
   </details>
 
   <details>
-    <summary>Campfire</summary>
+    <summary>Campfire (December 2020)</summary>
 
   * A public space where users can read and write scary stories anonymously
   * Build with: PostgreSQL, node.js, express.js, react, bootstrap, heroku
@@ -73,7 +73,7 @@ I love arguing about real-world problems and (sometimes) building something to s
   </details>
 
   <details>
-    <summary>Bang</summary>
+    <summary>Bang (January 2021)</summary>
 
   * A Kinect-like duel game where the players make the gun motion to pull the trigger. The player who shoots faster wins.
   * Build with: JavaScript, ml5, p5, teachable machine
@@ -83,7 +83,7 @@ I love arguing about real-world problems and (sometimes) building something to s
   </details>
 
   <details>
-    <summary>d3ja-vue</summary>
+    <summary>d3ja-vue (July 2021)</summary>
 
   * A vue component library for data visualization with d3.js
   * Build with: Vue.js, D3.js
@@ -93,7 +93,7 @@ I love arguing about real-world problems and (sometimes) building something to s
   </details>
 
   <details>
-    <summary>Rankify</summary>
+    <summary>Rankify (August 2021)</summary>
 
   * A suite of decision-making tools built with react and bootstrap. Currently hosts two tools: sports brackets and QuickSelect.
   * Build with: react, bootstrap
@@ -103,7 +103,7 @@ I love arguing about real-world problems and (sometimes) building something to s
   </details>
 
   <details>
-    <summary>Congklak</summary>
+    <summary>Congklak (November 2020)</summary>
 
   * It simulates a game of congklak for two players. It contains all the rules and it will move the seed automatically, so the players can focus on the game.
   * Build with: python, pygame
