@@ -45,7 +45,7 @@ I love arguing about real-world problems and (sometimes) building something to s
   <details>
     <summary>Gacha4Good (January 2022) </summary>
     
-  * Boxing-themed [gacha](https://en.wikipedia.org/wiki/Gacha_game) game
+  * Boxing-themed [gacha](https://en.wikipedia.org/wiki/Gacha_game) game to raise donations
   * Built with: React, MUI, Apollo, PayPal API, MongoDB, TypeScript
 
   [Learn More](https://github.com/dimassudjito/gacha4good)
