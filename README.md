@@ -133,7 +133,7 @@ experience.
   </details>
 
   <details>
-    <summary>President at UofA Blueprint (May 2022 – Present)</summary>
+    <summary>President @ UofA Blueprint (May 2022 – Present)</summary>
 
   * A student group building web and mobile apps for nonprofits pro bono.
   Currently developing apps for the Alzheimer Society of Calgary, DishZero, and
@@ -181,5 +181,61 @@ improved usability of the database for end-users.
   [Learn More](https://www.bio-conversion.org/)
   
   </details>
+</details>
+
+<details>
+  <summary>
+  
+  # Past Activities
+    
+  </summary>
+
+  <details>
+    <summary>Frontennd Developer Apprentice @ DoktorUp (Sept - Dec 2020)</summary>
+
+  * Developed an appointment snippet in the doctor page with React that reduces
+  users’ booking time by 30%.
+  * Fixed bugs and developed new features in the booking form using React
+  router and Postman.
+    
+  </details>
+
+  <details>
+    <summary>Hardware Team @ Albertaloop</summary>
+
+  *Wrote a preliminary research report on the cooling systems of the lithium-ion battery. This report explores different methods of cooling such as dielectric oil, water-based coolant, complete submersion, and air convection.
+    
+  </details>
+
+  <details>
+    <summary>careerrocket.io</summary>
+
+  * Careerrocket.io is a startup that helps high school students find their future career by connecting them to industry professional
+    
+  </details>
+
+  <details>
+    <summary>Environmental Projects (Jun 2016 - May 2018)</summary>
+
+  * Wrote two papers on the use of SCiO near-infrared spectrometer and Arduino in an automated waste sorting machine. Submitted in Spellman high voltage’s Clean Tech Competition and Indonesia Institute of Science’s youth research competition.
+  * Built a double-segment dispensing container for a package-less supermarket. Finalist at Bogor Young Scientist Fair 2017.
+  * Built a miniature wave-powered generator. 1st place at Madania Science Fair
+    
+  </details>
+
+  <details>
+    <summary>PHP Developer Intern @ the University of Indonesia (Dec 2017)</summary>
+
+  * Prototyped a CRUD website that records students’ lab scores with PHP, MySQL, phpMyAdmin, HTML, and CSS in 2 weeks.
+    
+  </details>
+
+  <details>
+    <summary>yanglokal.com (Jun 2017 - Mar 2018)</summary>
+
+  * yanglokal.com is a local-brand listing platform listing over 50 Indonesian brands.
+    
+  </details>
+  
 </details>
 
