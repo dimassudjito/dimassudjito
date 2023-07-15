@@ -13,10 +13,69 @@ I love arguing about real-world problems and (sometimes) building something to s
   </summary>
 
   <details>
+    <summary>Rusty Connect-4 (February 2023 - April 2023) </summary>
+    
+  * A web-based game built entirely with Rust. Equipped with a players database and multilevel AI opponent based on the MCTS algorithm
+
+  [Learn More](https://github.com/dimassudjito/ECE421Group12/tree/master/project3)
+    
+  </details>
+
+  <details>
+    <summary>Rusty Connect-4 (February 2023 - April 2023) </summary>
+    
+  * A web-based game built entirely with Rust. Equipped with a players database and multilevel AI opponent based on the MCTS algorithm
+  * Built with: Rust, Yew, Rocket, MongoDB, WebAssembly
+
+  [Learn More](https://github.com/dimassudjito/ECE421Group12/tree/master/project3)
+    
+  </details>
+
+  <details>
+    <summary>Alzheimer Calgary (September 2022 - January 2023)</summary>
+    
+  * A management portal for an adult daycare program run by the Alzheimer Society Calgary.
+  * Built with: React Native, Firebase
+
+  [Learn More](https://github.com/UofA-Blueprint/ICard)
+    
+  </details>
+
+  <details>
+    <summary>ICard (June 2022 - August 2022)</summary>
+    
+  * A digital benefit card for the International Students’ Association. Allow participating vendors to verify eligible members.
+  * Built with: React Native, Express.js, MongoDB, Google Cloud
+
+  [Learn More](https://github.com/UofA-Blueprint/ICard)
+    
+  </details>
+
+  <details>
     <summary>Gacha4Good (January 2022) </summary>
     
   * Boxing-themed [gacha](https://en.wikipedia.org/wiki/Gacha_game) game
-  * Build with: React, MUI, Apollo, PayPal API, MongoDB, TypeScript
+  * Built with: React, MUI, Apollo, PayPal API, MongoDB, TypeScript
+
+  [Learn More](https://github.com/dimassudjito/gacha4good)
+    
+  </details>
+
+  <details>
+    <summary>Gacha4Good (January 2022) </summary>
+    
+  * Boxing-themed [gacha](https://en.wikipedia.org/wiki/Gacha_game) game
+  * Built with: React, MUI, Apollo, PayPal API, MongoDB, TypeScript
+
+  [Learn More](https://github.com/dimassudjito/gacha4good)
+    
+  </details>
+
+  <details>
+    <summary>Gacha4Good (January 2022) </summary>
+    
+  * Boxing-themed [gacha](https://en.wikipedia.org/wiki/Gacha_game) game
+  * Built with: React, MUI, Apollo, PayPal API, MongoDB, TypeScript
 
   [Learn More](https://github.com/dimassudjito/gacha4good)
     
@@ -26,7 +85,7 @@ I love arguing about real-world problems and (sometimes) building something to s
     <summary>Fill-in-the-blank Medical Report (September 2021 - December 2021)</summary>
 
   * Automatic filling of medical report from chest X-ray scans using CNN-LSTM architecture. Worked under Dr. Li Cheng and Hoang Nguyen.
-  * Build with: PyTorch, Pandas
+  * Built with: PyTorch, Pandas
 
   [Learn More](https://github.com/dimassudjito/med_caption)
     
@@ -36,7 +95,7 @@ I love arguing about real-world problems and (sometimes) building something to s
     <summary>Quora Clone (May 2021 - June 2021)</summary>
 
   * A full clone of quora.com, a questions and answers application, based on GraphQL. Equipped with a classifier API to detect insincere questions.
-  * Build with: Scikit-learn, Flask, MongoDB, Mongoose, Apollo, Vue.js, Vuetify
+  * Built with: Scikit-learn, Flask, MongoDB, Mongoose, Apollo, Vue.js, Vuetify
 
   [Learn More](https://github.com/dimassudjito/quora-clone)
   
@@ -46,7 +105,7 @@ I love arguing about real-world problems and (sometimes) building something to s
     <summary>Logistic (February 2022)</summary>
 
   * Web application to keep track of warehouse inventory
-  * Build with: Typescript, Apollo, React
+  * Built with: Typescript, Apollo, React
 
   [Learn More](https://github.com/dimassudjito/logistic)
     
@@ -56,7 +115,7 @@ I love arguing about real-world problems and (sometimes) building something to s
     <summary>Spacestagram (January 2022)</summary>
 
   * A tumblr-style UI for nasa astronomy photo of the day API
-  * Build with: React, MUI
+  * Built with: React, MUI
 
   [Learn More](https://github.com/dimassudjito/spacestagram)
   
@@ -66,7 +125,7 @@ I love arguing about real-world problems and (sometimes) building something to s
     <summary>Campfire (December 2020)</summary>
 
   * A public space where users can read and write scary stories anonymously
-  * Build with: PostgreSQL, node.js, express.js, react, bootstrap, heroku
+  * Built with: PostgreSQL, node.js, express.js, react, bootstrap, heroku
 
   [Learn More](https://github.com/dimassudjito/campfire)
   
@@ -76,7 +135,7 @@ I love arguing about real-world problems and (sometimes) building something to s
     <summary>Bang (January 2021)</summary>
 
   * A Kinect-like duel game where the players make the gun motion to pull the trigger. The player who shoots faster wins.
-  * Build with: JavaScript, ml5, p5, teachable machine
+  * Built with: JavaScript, ml5, p5, teachable machine
 
   [Learn More](https://github.com/dimassudjito/bang)
   
@@ -86,7 +145,7 @@ I love arguing about real-world problems and (sometimes) building something to s
     <summary>d3ja-vue (July 2021)</summary>
 
   * A vue component library for data visualization with d3.js
-  * Build with: Vue.js, D3.js
+  * Built with: Vue.js, D3.js
 
   [Learn More](https://github.com/dimassudjito/d3ja-vue)
   
@@ -96,7 +155,7 @@ I love arguing about real-world problems and (sometimes) building something to s
     <summary>Rankify (August 2021)</summary>
 
   * A suite of decision-making tools built with react and bootstrap. Currently hosts two tools: sports brackets and QuickSelect.
-  * Build with: react, bootstrap
+  * Built with: react, bootstrap
 
   [Learn More](https://github.com/dimassudjito/rankify)
   
@@ -106,7 +165,7 @@ I love arguing about real-world problems and (sometimes) building something to s
     <summary>Congklak (November 2020)</summary>
 
   * It simulates a game of congklak for two players. It contains all the rules and it will move the seed automatically, so the players can focus on the game.
-  * Build with: python, pygame
+  * Built with: python, pygame
 
   [Learn More](https://github.com/dimassudjito/congklak)
   
