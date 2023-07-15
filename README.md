@@ -14,7 +14,7 @@ I love arguing about real-world problems and (sometimes) building something to s
 
   <details>
     <summary>Gacha4Good</summary>
-
+    
   * Boxing-themed [gacha](https://en.wikipedia.org/wiki/Gacha_game) game
   * Build with: React, MUI, Apollo, PayPal API, MongoDB, TypeScript
 
@@ -118,11 +118,51 @@ I love arguing about real-world problems and (sometimes) building something to s
   
   <summary>
 
-  # Activities
+  # Recent Activities
     
   </summary>
 
-  #lorem ipsum
+  <details>
+    <summary>Software Developer Intern (May 2023 – December 2023)</summary>
+
+  * Enhanced drilling report API endpoint based on client feedback, optimizing performance and improving user
+experience.
+
+  [Learn More](https://www.nov.com/)
   
+  </details>
+
+  <details>
+    <summary>Software Developer Intern (May 2022 – December 2022)</summary>
+
+  * Developed an API endpoint using C# and .NET to aggregate data from multiple sources and generate drilling
+reports. Implemented multi-threading, lazy loading, and caching techniques to enhance performance, resulting in a
+43% improvement in processing speed.
+  * Designed a Python module to visualize drilling data and generate PDF reports using Matplotlib. The module is
+  built with reusable and extendable components to accommodate future analytics needs.
+  * Accelerated migration from C# to Python for data visualization tasks by researching Python libraries and
+  developing proof-of-concept programs to guide software architecture decisions.
+  * Led Agile planning of a project by creating user stories and tasks, estimating story points, and identifying data
+  dependencies to ensure on-time, within-budget delivery.
+
+  [Learn More](https://www.nov.com/)
+  
+  </details>
+
+  <details>
+    <summary>Bioconversion Databank Foundation (May 2021 - Aug 2021)</summary>
+
+  * Spearheaded the development of an intuitive interface for the virus receptor database using Vue.js and AWS
+DynamoDB. Implemented key features such as advanced search, file export, and interactive diagrams, resulting in
+improved usability of the database for end-users.
+  * Created a dynamic visualization tool using D3.js that effectively showcased the relation between chemical pathways
+  and organisms, improving the analysis of complex data sets by researchers.
+  * Developed a single sign-on system for the main portal, admin portal, and user forum using Amazon Cognito
+  streamlining access for authorized users.
+
+
+  [Learn More](https://www.bio-conversion.org/)
+  
+  </details>
 </details>
 
