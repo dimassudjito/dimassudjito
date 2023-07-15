@@ -16,15 +16,6 @@ I love arguing about real-world problems and (sometimes) building something to s
     <summary>Rusty Connect-4 (February 2023 - April 2023) </summary>
     
   * A web-based game built entirely with Rust. Equipped with a players database and multilevel AI opponent based on the MCTS algorithm
-
-  [Learn More](https://github.com/dimassudjito/ECE421Group12/tree/master/project3)
-    
-  </details>
-
-  <details>
-    <summary>Rusty Connect-4 (February 2023 - April 2023) </summary>
-    
-  * A web-based game built entirely with Rust. Equipped with a players database and multilevel AI opponent based on the MCTS algorithm
   * Built with: Rust, Yew, Rocket, MongoDB, WebAssembly
 
   [Learn More](https://github.com/dimassudjito/ECE421Group12/tree/master/project3)
@@ -37,7 +28,7 @@ I love arguing about real-world problems and (sometimes) building something to s
   * A management portal for an adult daycare program run by the Alzheimer Society Calgary.
   * Built with: React Native, Firebase
 
-  [Learn More](https://github.com/UofA-Blueprint/ICard)
+  [Learn More](https://github.com/UofA-Blueprint/AlzheimerCalgary)
     
   </details>
 
