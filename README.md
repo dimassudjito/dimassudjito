@@ -1,6 +1,6 @@
 # Hello, I'm Dimas 
 
-I'm a software engineering student at the University of Alberta and a software developer intern at [NOV](https://www.nov.com/). I spend my free time building stuff at [UofA Blueprint](https://uofablueprint.org/).
+I'm a software engineering student at [the University of Alberta](https://www.ualberta.ca/) and a software developer intern at [NOV](https://www.nov.com/). I spend my free time building stuff at [UofA Blueprint](https://uofablueprint.org/).
 
 I love arguing about real-world problems and (sometimes) building something to solve them. I'm currently interested in web development and machine learning. Check out my work below.
 
@@ -39,26 +39,6 @@ I love arguing about real-world problems and (sometimes) building something to s
   * Built with: React Native, Express.js, MongoDB, Google Cloud
 
   [Learn More](https://github.com/UofA-Blueprint/ICard)
-    
-  </details>
-
-  <details>
-    <summary>Gacha4Good (January 2022) </summary>
-    
-  * Boxing-themed [gacha](https://en.wikipedia.org/wiki/Gacha_game) game
-  * Built with: React, MUI, Apollo, PayPal API, MongoDB, TypeScript
-
-  [Learn More](https://github.com/dimassudjito/gacha4good)
-    
-  </details>
-
-  <details>
-    <summary>Gacha4Good (January 2022) </summary>
-    
-  * Boxing-themed [gacha](https://en.wikipedia.org/wiki/Gacha_game) game
-  * Built with: React, MUI, Apollo, PayPal API, MongoDB, TypeScript
-
-  [Learn More](https://github.com/dimassudjito/gacha4good)
     
   </details>
 
