@@ -123,7 +123,7 @@ I love arguing about real-world problems and (sometimes) building something to s
   </summary>
 
   <details>
-    <summary>Software Developer Intern (May 2023 – December 2023)</summary>
+    <summary>Software Developer Intern @ NOV (May 2023 – December 2023)</summary>
 
   * Enhanced drilling report API endpoint based on client feedback, optimizing performance and improving user
 experience.
@@ -133,7 +133,24 @@ experience.
   </details>
 
   <details>
-    <summary>Software Developer Intern (May 2022 – December 2022)</summary>
+    <summary>President at UofA Blueprint (May 2022 – Present)</summary>
+
+  * A student group building web and mobile apps for nonprofits pro bono.
+  Currently developing apps for the Alzheimer Society of Calgary, DishZero, and
+  International Students Association.
+  * Oversaw all aspects of the projects including product, design, and engineering.
+  * Founded the chapter and grew the organization to 60+ students and faculty
+  advisors; received 300+ student applicants and held meetings with 25+
+  nonprofit organizations in the first year. 
+  * Supervised the administration team responsible for student recruitment,
+  nonprofit outreach, social media, and funding.
+
+  [Learn More](https://www.uofablueprint.org/)
+  
+  </details>
+
+  <details>
+    <summary>Software Developer Intern @ NOV (May 2022 – December 2022)</summary>
 
   * Developed an API endpoint using C# and .NET to aggregate data from multiple sources and generate drilling
 reports. Implemented multi-threading, lazy loading, and caching techniques to enhance performance, resulting in a
@@ -150,7 +167,7 @@ reports. Implemented multi-threading, lazy loading, and caching techniques to en
   </details>
 
   <details>
-    <summary>Bioconversion Databank Foundation (May 2021 - Aug 2021)</summary>
+    <summary>Software Developer Intern @ Bioconversion Databank Foundation (May 2021 - Aug 2021)</summary>
 
   * Spearheaded the development of an intuitive interface for the virus receptor database using Vue.js and AWS
 DynamoDB. Implemented key features such as advanced search, file export, and interactive diagrams, resulting in
