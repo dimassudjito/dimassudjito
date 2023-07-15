@@ -45,6 +45,16 @@ I love arguing about real-world problems and (sometimes) building something to s
   </details>
 
   <details>
+    <summary>dali (February-March 2022) </summary>
+    
+  * An experimental graphic design app using GPT-3 to generate SVG icons
+  * Built with: TypeScript, React, GPT-3
+
+  [Learn More](https://github.com/dimassudjito/dali)
+    
+  </details>
+
+  <details>
     <summary>Gacha4Good (January 2022) </summary>
     
   * [Gacha](https://en.wikipedia.org/wiki/Gacha_game) game platform to raise donations for good causes
