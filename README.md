@@ -130,6 +130,8 @@ improved usability of the database for end-users.
   
   # Past Software Projects
 
+  </summary>
+
   <details>
     <summary>dali (February-March 2022) </summary>
     
@@ -159,8 +161,6 @@ improved usability of the database for end-users.
   [Learn More](https://github.com/dimassudjito/med_caption)
     
   </details>
-    
-  </summary>
 
   <details>
     <summary>Logistic (February 2022)</summary>
