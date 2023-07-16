@@ -242,7 +242,7 @@ improved usability of the database for end-users.
   </summary>
 
   <details>
-    <summary>Frontennd Developer Apprentice @ DoktorUp (Sept - Dec 2020)</summary>
+    <summary>Frontend Developer Apprentice @ DoktorUp (Sept - Dec 2020)</summary>
 
   * Developed an appointment snippet in the doctor page with React that reduces
   users’ booking time by 30%.
