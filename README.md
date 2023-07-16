@@ -45,40 +45,10 @@ I love arguing about real-world problems and (sometimes) building something to s
   </details>
 
   <details>
-    <summary>dali (February-March 2022) </summary>
-    
-  * An experimental graphic design app using GPT-3 to generate SVG icons
-  * Built with: TypeScript, React, GPT-3
-
-  [Learn More](https://github.com/dimassudjito/dali)
-    
-  </details>
-
-  <details>
-    <summary>Gacha4Good (January 2022) </summary>
-    
-  * [Gacha](https://en.wikipedia.org/wiki/Gacha_game) game platform to raise donations for good causes
-  * Built with: React, MUI, Apollo, PayPal API, MongoDB, TypeScript
-
-  [Learn More](https://github.com/dimassudjito/gacha4good)
-    
-  </details>
-
-  <details>
-    <summary>Fill-in-the-blank Medical Report (September 2021 - December 2021)</summary>
-
-  * Automatic filling of medical report from chest X-ray scans using CNN-LSTM architecture. Worked under Dr. Li Cheng and Hoang Nguyen.
-  * Built with: PyTorch, Pandas
-
-  [Learn More](https://github.com/dimassudjito/med_caption)
-    
-  </details>
-
-  <details>
     <summary>Quora Clone (May 2021 - June 2021)</summary>
 
-  * A full clone of quora.com, a questions and answers application, based on GraphQL. Equipped with a classifier API to detect insincere questions.
-  * Built with: Scikit-learn, Flask, MongoDB, Mongoose, Apollo, Vue.js, Vuetify
+  * A clone of quora.com equipped with a classifier to flag insincere questions.
+  * Built with: Vue.js, GraphQL, MongoDB, Flask, Scikit-learn
 
   [Learn More](https://github.com/dimassudjito/quora-clone)
   
@@ -159,6 +129,36 @@ improved usability of the database for end-users.
   <summary>
   
   # Past Software Projects
+
+  <details>
+    <summary>dali (February-March 2022) </summary>
+    
+  * An experimental graphic design app using GPT-3 to generate SVG icons
+  * Built with: TypeScript, React, GPT-3
+
+  [Learn More](https://github.com/dimassudjito/dali)
+    
+  </details>
+
+  <details>
+    <summary>Gacha4Good (January 2022) </summary>
+    
+  * [Gacha](https://en.wikipedia.org/wiki/Gacha_game) game platform to raise donations for good causes
+  * Built with: React, MUI, Apollo, PayPal API, MongoDB, TypeScript
+
+  [Learn More](https://github.com/dimassudjito/gacha4good)
+    
+  </details>
+
+  <details>
+    <summary>Fill-in-the-blank Medical Report (September 2021 - December 2021)</summary>
+
+  * Automatic filling of medical report from chest X-ray scans using CNN-LSTM architecture. Worked under Dr. Li Cheng and Hoang Nguyen.
+  * Built with: PyTorch, Pandas
+
+  [Learn More](https://github.com/dimassudjito/med_caption)
+    
+  </details>
     
   </summary>
 
