@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/dimas-sudjito) | [GitHub](https://github.com/dimassudjito)
 
-I'm a software engineering student at [the University of Alberta](https://www.ualberta.ca/) and a software developer intern at [NOV](https://www.nov.com/). I spend my free time building stuff at [UofA Blueprint](https://uofablueprint.org/).
+I'm a recent software engineering graduate from the University of Alberta and a software engineer intern at [TD Bank](https://www.td.com/).
 
 I love arguing about real-world problems and (sometimes) building something to solve them. I'm currently interested in web development and machine learning. Check out my work below.
 
