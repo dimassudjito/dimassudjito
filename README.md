@@ -75,7 +75,7 @@ experience.
   </details>
 
   <details>
-    <summary>President @ UofA Blueprint (May 2022 – Present)</summary>
+    <summary>President @ UofA Blueprint (May 2022 – December 2023)</summary>
 
   * A student group building web and mobile apps for nonprofits pro bono.
   Currently developing apps for the Alzheimer Society of Calgary, DishZero, and
